@@ -1,4 +1,4 @@
-/** Tachyons Classes - version 4.9.1 */
+## Tachyons Classes - version 4.9.1 
 
 ```
 .absolute
@@ -2057,5 +2057,5 @@
 .z-initial
 .z-max
 .z-unset
-undefined
+
 ```

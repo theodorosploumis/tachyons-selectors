@@ -22,7 +22,7 @@ function writeSelectors(source, options, filename) {
         stream.write("## Tachyons Classes - version "+version+" \n\n");
         stream.write("```\n");
         for (var i = 0; i <= New.length; i++) {
-          if (New[i] !== "undefined") {
+          if (New[i] != "undefined" || New[i] != ".") {
             stream.write(New[i] + "\n");
           }
         }

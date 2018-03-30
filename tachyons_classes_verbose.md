@@ -1,7 +1,6 @@
-/** Tachyons Classes - version 4.9.1 */
+## Tachyons Classes - version 4.9.1 
 
 ```
-.
 .absolute--fill
 .absolute--fill-l
 .absolute--fill-m
@@ -2412,5 +2411,5 @@
 .zindex-initial
 .zindex-max
 .zindex-unset
-undefined
+
 ```
