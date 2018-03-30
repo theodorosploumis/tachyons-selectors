@@ -1,0 +1,28 @@
+{
+  "name": "tachyons-selectors",
+  "version": "1.0.0",
+  "description": "List all the Tachyons selectors with order",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "list-selectors": "^2.0.0"
+  },
+  "scripts": {
+    "test": "tachyons-selectors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theodorosploumis/tachyons-selectors.git"
+  },
+  "keywords": [
+    "tachyons",
+    "css-parser",
+    "functional-css"
+  ],
+  "author": "TheodorosPloumis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theodorosploumis/tachyons-selectors/issues"
+  },
+  "homepage": "https://github.com/theodorosploumis/tachyons-selectors#readme"
+}
