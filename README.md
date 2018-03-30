@@ -24,4 +24,4 @@ node index.js
 
 # Licence
 
-MIT
+[MIT](LICENSE)
