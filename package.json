@@ -2,6 +2,7 @@
   "name": "tachyons-selectors",
   "version": "1.0.0",
   "description": "List all the Tachyons selectors with order",
+  "homepage": "https://github.com/theodorosploumis/tachyons-selectors",
   "main": "index.js",
   "dependencies": {
     "fs": "0.0.1-security",
@@ -23,6 +24,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/theodorosploumis/tachyons-selectors/issues"
-  },
-  "homepage": "https://github.com/theodorosploumis/tachyons-selectors#readme"
+  }
 }
